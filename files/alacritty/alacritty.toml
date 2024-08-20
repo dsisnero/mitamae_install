@@ -1,0 +1,20 @@
+[font.normal]
+family = "SauceCodePro Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "SauceCodePro Nerd Font"
+style = "Bold"
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Control|Shift"
+
+[shell]
+args = ["/s /k pushd %V"]
+program = "cmd.exe"
+
+[window.padding]
+x = 10
+y = 10
