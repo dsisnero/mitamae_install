@@ -1,0 +1,54 @@
+{
+  "parser-directories": [
+    "C:\\windows_home\\src\\tree-sitter-parsers"
+  ],
+  "theme": {
+    "function.builtin": {
+      "bold": true,
+      "color": 26
+    },
+    "tag": 18,
+    "constant": 94,
+    "constructor": 136,
+    "operator": {
+      "color": 239,
+      "bold": true
+    },
+    "type": 23,
+    "module": 136,
+    "property": 124,
+    "variable.builtin": {
+      "bold": true
+    },
+    "type.builtin": {
+      "bold": true,
+      "color": 23
+    },
+    "attribute": {
+      "italic": true,
+      "color": 124
+    },
+    "comment": {
+      "color": 245,
+      "italic": true
+    },
+    "punctuation.delimiter": 239,
+    "variable.parameter": {
+      "underline": true
+    },
+    "embedded": null,
+    "punctuation.bracket": 239,
+    "keyword": 56,
+    "string.special": 30,
+    "constant.builtin": {
+      "color": 94,
+      "bold": true
+    },
+    "function": 26,
+    "number": {
+      "color": 94,
+      "bold": true
+    },
+    "string": 28
+  }
+}
